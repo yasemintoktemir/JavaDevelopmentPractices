@@ -1,0 +1,12 @@
+
+Java Coding Tasks - Week 5
+
+1.	String - Find the unique
+Write a return method that can find the unique characters from the String.
+Ex:
+Ex: unique("AAABBBCCCDEF") ==> "DEF"
+
+
+2.	String -- Reverse
+Write a function that can reverse String.
+Ex: Reverse("ABCD"); ==> DCBA
