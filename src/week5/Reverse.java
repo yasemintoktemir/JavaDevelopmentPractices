@@ -10,7 +10,7 @@ public class Reverse {
         for (int i = 0; i < str.length(); i++) {
             reversed_str = str.charAt(i) + reversed_str;
             //System.out.println(reversed_str);             // A, BA, CBA, DCBA
-                                                            // values of reversed_str after each loop
+            // values of reversed_str after each loop
         }
 
         System.out.println(reversed_str);
